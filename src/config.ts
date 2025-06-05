@@ -55,19 +55,19 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Denis Bušek",
-	bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	bio: "16letý mladý vývojář z Trutnova",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "Tiktok",
+			icon: "fa6-brands:tiktok", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://tiktok.com/@whitchisthebest",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://instagram.com/solt1x",
 		},
 		{
 			name: "GitHub",
